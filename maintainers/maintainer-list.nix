@@ -7898,6 +7898,12 @@
     githubId = 48104179;
     name = "Elliott Villars";
   };
+  elliottminns = {
+    email = "oss@kiru.app";
+    github = "elliottminns";
+    githubId = 3148319;
+    name = "Elliott Minns";
+  };
   ellis = {
     email = "nixos@ellisw.net";
     github = "ellis";
